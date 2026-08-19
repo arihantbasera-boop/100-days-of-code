@@ -49,3 +49,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 06: MongoDB Indexing & Query Profiling
+**Date:** August 19, 2026 (2026-08-19T13:04:45+05:30)
+
+- Profiled slow queries using `explain('executionStats')`.
+- Replaced full collection scans with a compound index on `(github_username, github_repo)`.
+- Reduced execution time from 140ms to 2ms on lookups.
+
+---
+
