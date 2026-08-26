@@ -112,3 +112,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 13: System Architecture & Separation of Concerns
+**Date:** August 26, 2026 (2026-08-26T13:42:11+05:30)
+
+- Outlined domain entities, use-case interactors, and external interfaces.
+- Added mermaid sequence diagram for the client synchronization pipeline.
+- Defined boundary contracts between API controllers and DB models.
+
+---
+
